@@ -1,0 +1,32 @@
+/* Created by: Ben Thomson
+* Created on: 03/22/2023
+* This CSS file defines the style for index.php
+* ICS2O-Unit2-05-PHP-Salary
+*/
+
+body {
+  background-color: rgb(163 177 138);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+  color: #344e41;
+}
+
+h1 {
+  background-color: hsl(150deg 20% 25%);
+  padding: 40px;
+  text-align: center;
+  color: #dad7cd;
+}
+
+h3 {
+  color: #3a5a40;
+}
+
+form {
+}
+
+#result {
+  background-color: #588157;
+  color: #344e41;
+  padding: 20px;
+}
